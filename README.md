@@ -58,7 +58,7 @@ MongoDB Enterprise > db.jugadores.find({nombre: "Isco"})
 { "_id" : ObjectId("5b0c26458fabcc31ed191c53"), "nombre" : "Isco", "edad" : 26, "equipo" : "Real Madrid" }
 ```
 
-<img src=./capturas/modificar.png width=600px>
+<img src=./capturas/modificar.png width=900px>
 
 <h2>3.3 Eliminar</h2>
 
