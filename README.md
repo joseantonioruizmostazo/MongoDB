@@ -38,7 +38,7 @@ WriteResult({ "nInserted" : 1 })
 WriteResult({ "nInserted" : 1 })
 ```
 
-<img src=./capturas/insertar.png width=600px>
+<img src=./capturas/insertar.png width=900px>
 
 <h2>3.2 Modificar</h2>
 
@@ -93,7 +93,7 @@ WriteResult({ "nRemoved" : 1 })
 { "_id" : ObjectId("5b0c2b878fabcc31ed191c55"), "nombre" : "Cristiano Ronaldo", "edad" : 31, "equipo" : "Real Madrid" }
 ```
 
-<img src=./capturas/mayorque.png width=600px>
+<img src=./capturas/mayorque.png width=900px>
 <br/>
 <h2>5.2 Muéstrame aquellos jugadores cuya edad sea menor que 30</h2>
 
@@ -103,7 +103,7 @@ WriteResult({ "nRemoved" : 1 })
 { "_id" : ObjectId("5b0c26458fabcc31ed191c53"), "nombre" : "Isco", "edad" : 26, "equipo" : "Real Madrid" }
 ```
 
-<img src=./capturas/menorque.png width=600px>
+<img src=./capturas/menorque.png width=900px>
 <br/>
 <h2>5.3 Muéstrame aquellos jugadores cuya edad sea igual que 25</h2>
 
@@ -112,7 +112,7 @@ WriteResult({ "nRemoved" : 1 })
 { "_id" : ObjectId("5b0c263b8fabcc31ed191c52"), "nombre" : "Griezman", "edad" : 25, "equipo" : "Atl Madrid" }
 ```
 
-<img src=./capturas/igualque.png width=600px>
+<img src=./capturas/igualque.png width=900px>
 <br/>
 <h1>6. Realizar una consulta en la que los documentos se muestren ordenados y se limite el número de mostrados.</h1>
 
@@ -122,7 +122,7 @@ WriteResult({ "nRemoved" : 1 })
 { "_id" : ObjectId("5b0c263b8fabcc31ed191c52"), "nombre" : "Griezman", "edad" : 25, "equipo" : "Atl Madrid" }
 ```
 
-<img src=./capturas/ordenado.png width=600px>
+<img src=./capturas/ordenado.png width=900px>
 <br/>
 <h1>7.Realizar una consulta con agrupamiento y una función para mostrar la media, o suma, o la que tú decidas.</h1>
 
@@ -133,5 +133,5 @@ WriteResult({ "nRemoved" : 1 })
 { "_id" : "Real Madrid", "repetidos" : 3, "edad media" : 29 }
 ```
 
-<img src=./capturas/edadmedia.png width=600px>
+<img src=./capturas/edadmedia.png width=900px>
 
